@@ -2,7 +2,7 @@ export const site = {
   name: 'Fortis AI',
   tagline: 'Practical AI solutions for Australian business.',
   url: import.meta.env.VITE_SITE_URL || 'https://ai.fortisanalytica.com.au',
-  bookingUrl: import.meta.env.VITE_BOOKING_URL || '#book',
+  bookingUrl: https://calendly.com/redmond-fortisanalytica/30min ,
   email: 'info@fortisanalytica.com.au',
   phone: '02 8015 2987',
   legalEntity: 'Fortis Analytica Pty Ltd',
