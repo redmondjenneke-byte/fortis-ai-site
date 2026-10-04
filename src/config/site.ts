@@ -11,7 +11,7 @@ export const site = {
 }
 
 export const services = [
-  { title: 'AI Opportunity Audit', price: '$495 + GST', href: '/ai-opportunity-audit', body: 'A practical assessment of where AI and automation can help your business work better.' },
+  { title: 'AI Opportunity Audit', price: 'FREE - Limited Time', href: '/ai-opportunity-audit', body: 'A practical assessment of where AI and automation can help your business work better.' },
   { title: 'AI Automation & Implementation', price: 'From $2,500 + GST', href: '/ai-automation', body: 'We design, build and test workflows that connect the systems your team already uses.' },
   { title: 'AI Business Transformation Sprint', price: '$4,950 + GST', href: '/transformation-sprint', body: 'A focused 2–3 week engagement to move from opportunity to working implementation.' },
   { title: 'AI Operations Partner', price: 'From $995 + GST/month', href: '/ai-operations', body: 'Ongoing monitoring, improvement and practical support for the systems you put in place.' },
